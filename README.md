@@ -1,12 +1,14 @@
-- 👋 Hi, I’m @SekSpekGui
-- 👀 I’m interested in all things cybersecurity
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me 
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+<h1>Hi, I'm John!  <br/><a <a href="https://www.linkedin.com/in/john-poka/">Cybersecurity Professional</a>
 
-<!---
-SekSpekGui/SekSpekGui is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<h2>👨‍💻 Cybersecurity Projects:</h2>
+
+  - [Conducting a Security Audit](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [Active Directory Home Lab](https://github.com/joshmadakor1/Algorithms-Practice)
+
+
+
+<h2> 🤳 Connect with me:</h2>
+
+[<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][Linkedin]
+
+[linkedin]: https://www.linkedin.com/in/john-poka/
