@@ -1,7 +1,6 @@
 <h1>Hi, I'm John!  <br/><a <a href="https://www.linkedin.com/in/john-poka/">Cybersecurity Professional</a>
 
-[Brief Introduction]
-
+## Summary
 I am a security analyst with a profound interest in investigating and then utilizing various tools to solve complex problems while keeping security at the forefront. 
 
 ## Objective
